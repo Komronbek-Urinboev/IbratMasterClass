@@ -1,0 +1,325 @@
+2025-04-28 23:03:55,119 - INFO - aiogram.dispatcher - Start polling
+2025-04-28 23:03:55,442 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'IbratMasterClassBot'
+2025-04-28 23:04:19,639 - INFO - aiogram.event - Update id=958074531 is handled. Duration 328 ms by bot id=8119396922
+2025-04-28 23:04:24,830 - INFO - aiogram.event - Update id=958074532 is handled. Duration 202 ms by bot id=8119396922
+2025-04-28 23:04:26,990 - INFO - aiogram.event - Update id=958074533 is handled. Duration 139 ms by bot id=8119396922
+2025-04-28 23:04:30,578 - INFO - aiogram.event - Update id=958074534 is handled. Duration 186 ms by bot id=8119396922
+2025-04-28 23:04:31,937 - INFO - aiogram.event - Update id=958074535 is handled. Duration 171 ms by bot id=8119396922
+2025-04-28 23:04:33,895 - INFO - aiogram.event - Update id=958074536 is handled. Duration 514 ms by bot id=8119396922
+2025-04-28 23:04:57,472 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-28 23:04:57,727 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'IbratMasterClassBot'
+2025-04-29 18:39:43,904 - INFO - aiogram.dispatcher - Start polling
+2025-04-29 18:39:44,302 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:39:44,764 - INFO - aiogram.event - Update id=958074537 is handled. Duration 343 ms by bot id=8119396922
+2025-04-29 18:39:44,765 - INFO - aiogram.event - Update id=958074538 is handled. Duration 343 ms by bot id=8119396922
+2025-04-29 18:39:44,767 - INFO - aiogram.event - Update id=958074539 is handled. Duration 343 ms by bot id=8119396922
+2025-04-29 18:39:48,133 - INFO - aiogram.event - Update id=958074540 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:39:50,552 - INFO - aiogram.event - Update id=958074541 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:39:52,668 - INFO - aiogram.event - Update id=958074542 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:39:53,754 - INFO - aiogram.event - Update id=958074543 is handled. Duration 156 ms by bot id=8119396922
+2025-04-29 18:39:54,277 - INFO - aiogram.event - Update id=958074544 is handled. Duration 139 ms by bot id=8119396922
+2025-04-29 18:39:57,095 - INFO - aiogram.event - Update id=958074545 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:39:57,712 - INFO - aiogram.event - Update id=958074546 is handled. Duration 140 ms by bot id=8119396922
+2025-04-29 18:39:59,044 - INFO - aiogram.event - Update id=958074547 is handled. Duration 109 ms by bot id=8119396922
+2025-04-29 18:40:00,299 - INFO - aiogram.event - Update id=958074548 is handled. Duration 140 ms by bot id=8119396922
+2025-04-29 18:40:02,470 - INFO - aiogram.event - Update id=958074549 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:40:03,995 - INFO - aiogram.event - Update id=958074550 is handled. Duration 108 ms by bot id=8119396922
+2025-04-29 18:40:05,631 - INFO - aiogram.event - Update id=958074551 is handled. Duration 328 ms by bot id=8119396922
+2025-04-29 18:40:10,400 - INFO - aiogram.event - Update id=958074552 is handled. Duration 389 ms by bot id=8119396922
+2025-04-29 18:40:14,364 - INFO - aiogram.event - Update id=958074553 is handled. Duration 187 ms by bot id=8119396922
+2025-04-29 18:40:53,402 - INFO - aiogram.event - Update id=958074554 is handled. Duration 140 ms by bot id=8119396922
+2025-04-29 18:41:03,143 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-29 18:41:03,355 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2685)
+2025-04-29 18:41:03,355 - WARNING - aiogram.dispatcher - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8119396922)
+2025-04-29 18:41:03,407 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:41:09,758 - INFO - aiogram.dispatcher - Start polling
+2025-04-29 18:41:10,115 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:41:15,283 - INFO - aiogram.event - Update id=958074555 is handled. Duration 421 ms by bot id=8119396922
+2025-04-29 18:41:17,642 - INFO - aiogram.event - Update id=958074556 is handled. Duration 109 ms by bot id=8119396922
+2025-04-29 18:41:18,881 - INFO - aiogram.event - Update id=958074557 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:41:20,536 - INFO - aiogram.event - Update id=958074558 is handled. Duration 140 ms by bot id=8119396922
+2025-04-29 18:41:22,293 - INFO - aiogram.event - Update id=958074559 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:41:23,924 - INFO - aiogram.event - Update id=958074560 is handled. Duration 281 ms by bot id=8119396922
+2025-04-29 18:41:25,249 - INFO - aiogram.event - Update id=958074561 is handled. Duration 359 ms by bot id=8119396922
+2025-04-29 18:42:09,746 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-29 18:42:10,001 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:43:41,841 - INFO - aiogram.dispatcher - Start polling
+2025-04-29 18:43:42,175 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:43:49,020 - INFO - aiogram.event - Update id=958074562 is handled. Duration 359 ms by bot id=8119396922
+2025-04-29 18:43:50,407 - INFO - aiogram.event - Update id=958074563 is handled. Duration 140 ms by bot id=8119396922
+2025-04-29 18:43:57,211 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-29 18:43:57,467 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:46:43,099 - INFO - aiogram.dispatcher - Start polling
+2025-04-29 18:46:43,446 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:46:43,934 - INFO - aiogram.event - Update id=958074564 is handled. Duration 360 ms by bot id=8119396922
+2025-04-29 18:46:47,766 - INFO - aiogram.event - Update id=958074565 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:46:49,410 - INFO - aiogram.event - Update id=958074566 is handled. Duration 234 ms by bot id=8119396922
+2025-04-29 18:46:54,690 - INFO - aiogram.event - Update id=958074567 is handled. Duration 250 ms by bot id=8119396922
+2025-04-29 18:46:57,161 - INFO - aiogram.event - Update id=958074568 is handled. Duration 156 ms by bot id=8119396922
+2025-04-29 18:47:08,194 - INFO - aiogram.event - Update id=958074569 is handled. Duration 155 ms by bot id=8119396922
+2025-04-29 18:47:09,364 - INFO - aiogram.event - Update id=958074570 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:47:10,993 - INFO - aiogram.event - Update id=958074571 is handled. Duration 389 ms by bot id=8119396922
+2025-04-29 18:47:18,885 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-29 18:47:19,138 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:47:22,472 - INFO - aiogram.dispatcher - Start polling
+2025-04-29 18:47:22,811 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:47:28,541 - INFO - aiogram.event - Update id=958074572 is handled. Duration 390 ms by bot id=8119396922
+2025-04-29 18:47:29,788 - INFO - aiogram.event - Update id=958074573 is handled. Duration 234 ms by bot id=8119396922
+2025-04-29 18:47:32,475 - INFO - aiogram.event - Update id=958074574 is handled. Duration 203 ms by bot id=8119396922
+2025-04-29 18:47:33,863 - INFO - aiogram.event - Update id=958074575 is handled. Duration 139 ms by bot id=8119396922
+2025-04-29 18:47:35,238 - INFO - aiogram.event - Update id=958074576 is handled. Duration 187 ms by bot id=8119396922
+2025-04-29 18:47:39,420 - INFO - aiogram.event - Update id=958074577 is handled. Duration 250 ms by bot id=8119396922
+2025-04-29 18:47:41,082 - INFO - aiogram.event - Update id=958074578 is handled. Duration 359 ms by bot id=8119396922
+2025-04-29 18:47:52,439 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-29 18:47:52,709 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:49:55,250 - INFO - aiogram.dispatcher - Start polling
+2025-04-29 18:49:55,573 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:49:55,705 - INFO - aiogram.event - Update id=958074579 is not handled. Duration 0 ms by bot id=8119396922
+2025-04-29 18:50:06,444 - INFO - aiogram.event - Update id=958074580 is handled. Duration 359 ms by bot id=8119396922
+2025-04-29 18:50:07,711 - INFO - aiogram.event - Update id=958074581 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:50:08,931 - INFO - aiogram.event - Update id=958074582 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:50:10,647 - INFO - aiogram.event - Update id=958074583 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:50:11,649 - INFO - aiogram.event - Update id=958074584 is handled. Duration 140 ms by bot id=8119396922
+2025-04-29 18:50:12,955 - INFO - aiogram.event - Update id=958074585 is handled. Duration 140 ms by bot id=8119396922
+2025-04-29 18:50:14,622 - INFO - aiogram.event - Update id=958074586 is handled. Duration 359 ms by bot id=8119396922
+2025-04-29 18:52:22,151 - INFO - aiogram.event - Update id=958074587 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:52:23,588 - INFO - aiogram.event - Update id=958074588 is handled. Duration 187 ms by bot id=8119396922
+2025-04-29 18:52:29,418 - INFO - aiogram.event - Update id=958074589 is handled. Duration 218 ms by bot id=8119396922
+2025-04-29 18:52:32,296 - INFO - aiogram.event - Update id=958074590 is handled. Duration 218 ms by bot id=8119396922
+2025-04-29 18:52:34,858 - INFO - aiogram.event - Update id=958074591 is handled. Duration 109 ms by bot id=8119396922
+2025-04-29 18:52:36,467 - INFO - aiogram.event - Update id=958074592 is handled. Duration 187 ms by bot id=8119396922
+2025-04-29 18:52:42,104 - INFO - aiogram.event - Update id=958074593 is handled. Duration 469 ms by bot id=8119396922
+2025-04-29 18:53:37,231 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-29 18:53:37,484 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:53:40,746 - INFO - aiogram.dispatcher - Start polling
+2025-04-29 18:53:41,058 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:53:49,617 - INFO - aiogram.event - Update id=958074594 is handled. Duration 328 ms by bot id=8119396922
+2025-04-29 18:54:17,371 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-29 18:54:17,624 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:54:20,988 - INFO - aiogram.dispatcher - Start polling
+2025-04-29 18:54:21,334 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 18:54:23,141 - INFO - aiogram.event - Update id=958074595 is handled. Duration 359 ms by bot id=8119396922
+2025-04-29 18:54:24,634 - INFO - aiogram.event - Update id=958074596 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:54:29,401 - INFO - aiogram.event - Update id=958074597 is handled. Duration 140 ms by bot id=8119396922
+2025-04-29 18:54:31,504 - INFO - aiogram.event - Update id=958074598 is handled. Duration 140 ms by bot id=8119396922
+2025-04-29 18:54:33,741 - INFO - aiogram.event - Update id=958074599 is handled. Duration 140 ms by bot id=8119396922
+2025-04-29 18:54:35,324 - INFO - aiogram.event - Update id=958074600 is handled. Duration 156 ms by bot id=8119396922
+2025-04-29 18:54:36,900 - INFO - aiogram.event - Update id=958074601 is handled. Duration 515 ms by bot id=8119396922
+2025-04-29 18:55:19,984 - INFO - aiogram.event - Update id=958074602 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:55:21,500 - INFO - aiogram.event - Update id=958074603 is handled. Duration 156 ms by bot id=8119396922
+2025-04-29 18:55:23,606 - INFO - aiogram.event - Update id=958074604 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 18:55:25,938 - INFO - aiogram.event - Update id=958074605 is handled. Duration 187 ms by bot id=8119396922
+2025-04-29 18:55:29,006 - INFO - aiogram.event - Update id=958074606 is handled. Duration 172 ms by bot id=8119396922
+2025-04-29 18:55:30,800 - INFO - aiogram.event - Update id=958074607 is handled. Duration 156 ms by bot id=8119396922
+2025-04-29 18:55:32,202 - INFO - aiogram.event - Update id=958074608 is handled. Duration 406 ms by bot id=8119396922
+2025-04-29 18:58:19,533 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-29 18:58:19,804 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 21:30:28,818 - INFO - aiogram.dispatcher - Start polling
+2025-04-29 21:30:29,165 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-29 21:30:29,603 - INFO - aiogram.event - Update id=958074609 is handled. Duration 328 ms by bot id=8119396922
+2025-04-29 21:30:29,633 - INFO - aiogram.event - Update id=958074610 is handled. Duration 360 ms by bot id=8119396922
+2025-04-29 21:30:29,645 - INFO - aiogram.event - Update id=958074613 is handled. Duration 375 ms by bot id=8119396922
+2025-04-29 21:30:29,676 - INFO - aiogram.event - Update id=958074611 is handled. Duration 406 ms by bot id=8119396922
+2025-04-29 21:30:29,697 - INFO - aiogram.event - Update id=958074614 is handled. Duration 422 ms by bot id=8119396922
+2025-04-29 21:30:29,728 - INFO - aiogram.event - Update id=958074612 is handled. Duration 453 ms by bot id=8119396922
+2025-04-29 21:30:29,749 - INFO - aiogram.event - Update id=958074615 is handled. Duration 468 ms by bot id=8119396922
+2025-04-29 21:30:42,462 - INFO - aiogram.event - Update id=958074616 is handled. Duration 156 ms by bot id=8119396922
+2025-04-29 21:30:44,420 - INFO - aiogram.event - Update id=958074617 is handled. Duration 202 ms by bot id=8119396922
+2025-04-29 21:30:46,764 - INFO - aiogram.event - Update id=958074618 is handled. Duration 297 ms by bot id=8119396922
+2025-04-29 21:30:47,714 - INFO - aiogram.event - Update id=958074619 is handled. Duration 172 ms by bot id=8119396922
+2025-04-29 21:30:49,304 - INFO - aiogram.event - Update id=958074620 is handled. Duration 156 ms by bot id=8119396922
+2025-04-29 21:30:51,310 - INFO - aiogram.event - Update id=958074621 is handled. Duration 656 ms by bot id=8119396922
+2025-04-29 21:39:52,462 - INFO - aiogram.event - Update id=958074622 is handled. Duration 172 ms by bot id=8119396922
+2025-04-29 21:43:50,604 - INFO - aiogram.event - Update id=958074623 is handled. Duration 172 ms by bot id=8119396922
+2025-04-29 21:43:54,288 - INFO - aiogram.event - Update id=958074624 is handled. Duration 125 ms by bot id=8119396922
+2025-04-29 21:44:01,058 - INFO - aiogram.event - Update id=958074625 is handled. Duration 234 ms by bot id=8119396922
+2025-04-29 21:44:07,128 - INFO - aiogram.event - Update id=958074626 is not handled. Duration 16 ms by bot id=8119396922
+2025-04-29 21:44:11,921 - INFO - aiogram.event - Update id=958074627 is handled. Duration 140 ms by bot id=8119396922
+2025-04-29 21:44:17,755 - INFO - aiogram.event - Update id=958074628 is handled. Duration 141 ms by bot id=8119396922
+2025-04-29 21:44:23,637 - INFO - aiogram.event - Update id=958074629 is handled. Duration 172 ms by bot id=8119396922
+2025-04-29 21:44:36,160 - INFO - aiogram.event - Update id=958074630 is not handled. Duration 15 ms by bot id=8119396922
+2025-04-29 21:45:06,801 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-29 21:45:07,067 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 22:13:54,405 - INFO - aiogram.dispatcher - Start polling
+2025-04-30 22:13:54,924 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 22:13:59,838 - INFO - aiogram.event - Update id=958074671 is handled. Duration 344 ms by bot id=8119396922
+2025-04-30 22:14:11,488 - INFO - aiogram.event - Update id=958074672 is handled. Duration 234 ms by bot id=8119396922
+2025-04-30 22:14:16,312 - INFO - aiogram.event - Update id=958074673 is handled. Duration 157 ms by bot id=8119396922
+2025-04-30 22:14:18,487 - INFO - aiogram.event - Update id=958074674 is handled. Duration 140 ms by bot id=8119396922
+2025-04-30 22:14:20,784 - INFO - aiogram.event - Update id=958074675 is handled. Duration 202 ms by bot id=8119396922
+2025-04-30 22:14:22,372 - INFO - aiogram.event - Update id=958074676 is handled. Duration 219 ms by bot id=8119396922
+2025-04-30 22:14:24,412 - INFO - aiogram.event - Update id=958074677 is handled. Duration 375 ms by bot id=8119396922
+2025-04-30 22:14:36,287 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-30 22:14:36,545 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 22:58:13,432 - INFO - aiogram.dispatcher - Start polling
+2025-04-30 22:58:13,741 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 22:58:21,158 - INFO - aiogram.event - Update id=958074688 is handled. Duration 341 ms by bot id=8119396922
+2025-04-30 22:58:23,146 - INFO - aiogram.event - Update id=958074689 is handled. Duration 124 ms by bot id=8119396922
+2025-04-30 22:58:36,237 - INFO - aiogram.event - Update id=958074690 is handled. Duration 127 ms by bot id=8119396922
+2025-04-30 22:58:38,850 - INFO - aiogram.event - Update id=958074691 is handled. Duration 131 ms by bot id=8119396922
+2025-04-30 22:58:43,488 - INFO - aiogram.event - Update id=958074692 is handled. Duration 136 ms by bot id=8119396922
+2025-04-30 22:58:45,030 - INFO - aiogram.event - Update id=958074693 is handled. Duration 134 ms by bot id=8119396922
+2025-04-30 22:58:46,708 - INFO - aiogram.event - Update id=958074694 is handled. Duration 354 ms by bot id=8119396922
+2025-04-30 22:59:01,752 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2025-04-30 22:59:01,753 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 22:59:01,753 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-30 23:10:16,068 - INFO - aiogram.dispatcher - Start polling
+2025-04-30 23:10:16,504 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:10:20,806 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-30 23:10:20,807 - WARNING - aiogram.dispatcher - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8119396922)
+2025-04-30 23:10:22,115 - INFO - aiogram.dispatcher - Connection established (tryings = 1, bot id = 8119396922)
+2025-04-30 23:10:22,118 - INFO - aiogram.event - Update id=958074702 is not handled. Duration 1 ms by bot id=8119396922
+2025-04-30 23:10:26,012 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-30 23:10:26,012 - WARNING - aiogram.dispatcher - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8119396922)
+2025-04-30 23:10:31,563 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-30 23:10:31,564 - WARNING - aiogram.dispatcher - Sleep for 1.294702 seconds and try again... (tryings = 1, bot id = 8119396922)
+2025-04-30 23:10:37,696 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-30 23:10:37,696 - WARNING - aiogram.dispatcher - Sleep for 1.462072 seconds and try again... (tryings = 2, bot id = 8119396922)
+2025-04-30 23:10:44,248 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-30 23:10:44,248 - WARNING - aiogram.dispatcher - Sleep for 1.745755 seconds and try again... (tryings = 3, bot id = 8119396922)
+2025-04-30 23:10:51,383 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-30 23:10:51,384 - WARNING - aiogram.dispatcher - Sleep for 2.487410 seconds and try again... (tryings = 4, bot id = 8119396922)
+2025-04-30 23:10:53,901 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2025-04-30 23:10:53,904 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:10:53,904 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-30 23:13:26,779 - INFO - aiogram.dispatcher - Start polling
+2025-04-30 23:13:27,197 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:13:31,526 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-30 23:13:31,526 - WARNING - aiogram.dispatcher - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8119396922)
+2025-04-30 23:13:37,402 - ERROR - aiogram.dispatcher - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-30 23:13:37,403 - WARNING - aiogram.dispatcher - Sleep for 1.371698 seconds and try again... (tryings = 1, bot id = 8119396922)
+2025-04-30 23:13:39,506 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2025-04-30 23:13:39,508 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:13:39,508 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-30 23:32:54,330 - INFO - aiogram.dispatcher - Start polling
+2025-04-30 23:32:54,802 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:32:55,263 - INFO - aiogram.event - Update id=958074771 is handled. Duration 341 ms by bot id=8119396922
+2025-04-30 23:32:55,265 - INFO - aiogram.event - Update id=958074770 is handled. Duration 346 ms by bot id=8119396922
+2025-04-30 23:32:55,266 - INFO - aiogram.event - Update id=958074772 is handled. Duration 342 ms by bot id=8119396922
+2025-04-30 23:32:55,288 - INFO - aiogram.event - Update id=958074774 is handled. Duration 362 ms by bot id=8119396922
+2025-04-30 23:32:55,314 - INFO - aiogram.event - Update id=958074773 is handled. Duration 390 ms by bot id=8119396922
+2025-04-30 23:33:05,935 - INFO - aiogram.event - Update id=958074775 is handled. Duration 127 ms by bot id=8119396922
+2025-04-30 23:33:13,033 - INFO - aiogram.event - Update id=958074776 is handled. Duration 174 ms by bot id=8119396922
+2025-04-30 23:33:17,496 - INFO - aiogram.event - Update id=958074777 is handled. Duration 125 ms by bot id=8119396922
+2025-04-30 23:33:19,303 - INFO - aiogram.event - Update id=958074778 is handled. Duration 145 ms by bot id=8119396922
+2025-04-30 23:33:22,895 - INFO - aiogram.event - Update id=958074779 is handled. Duration 130 ms by bot id=8119396922
+2025-04-30 23:33:24,606 - INFO - aiogram.event - Update id=958074780 is handled. Duration 134 ms by bot id=8119396922
+2025-04-30 23:33:26,562 - INFO - aiogram.event - Update id=958074781 is handled. Duration 399 ms by bot id=8119396922
+2025-04-30 23:33:42,749 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2025-04-30 23:33:42,751 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:33:42,751 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-30 23:38:14,449 - INFO - aiogram.dispatcher - Start polling
+2025-04-30 23:38:14,880 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:38:15,329 - INFO - aiogram.event - Update id=958074783 is handled. Duration 336 ms by bot id=8119396922
+2025-04-30 23:38:17,730 - INFO - aiogram.event - Update id=958074784 is handled. Duration 138 ms by bot id=8119396922
+2025-04-30 23:38:44,188 - INFO - aiogram.event - Update id=958074785 is handled. Duration 187 ms by bot id=8119396922
+2025-04-30 23:38:45,998 - INFO - aiogram.event - Update id=958074786 is handled. Duration 119 ms by bot id=8119396922
+2025-04-30 23:38:48,312 - INFO - aiogram.event - Update id=958074787 is handled. Duration 182 ms by bot id=8119396922
+2025-04-30 23:38:49,614 - INFO - aiogram.event - Update id=958074788 is handled. Duration 469 ms by bot id=8119396922
+2025-04-30 23:38:50,123 - INFO - aiogram.event - Update id=958074789 is handled. Duration 173 ms by bot id=8119396922
+2025-04-30 23:38:51,062 - INFO - aiogram.event - Update id=958074790 is handled. Duration 193 ms by bot id=8119396922
+2025-04-30 23:38:54,023 - INFO - aiogram.event - Update id=958074791 is handled. Duration 691 ms by bot id=8119396922
+2025-04-30 23:38:57,286 - INFO - aiogram.event - Update id=958074792 is handled. Duration 121 ms by bot id=8119396922
+2025-04-30 23:42:34,129 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2025-04-30 23:42:34,131 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:42:34,131 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-30 23:42:37,624 - INFO - aiogram.dispatcher - Start polling
+2025-04-30 23:42:38,042 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:42:38,579 - INFO - aiogram.event - Update id=958074793 is handled. Duration 367 ms by bot id=8119396922
+2025-04-30 23:44:06,442 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2025-04-30 23:44:06,445 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:44:06,446 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-30 23:53:50,849 - INFO - aiogram.dispatcher - Start polling
+2025-04-30 23:53:51,296 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:53:51,775 - INFO - aiogram.event - Update id=958074803 is handled. Duration 370 ms by bot id=8119396922
+2025-04-30 23:53:54,736 - INFO - aiogram.event - Update id=958074804 is handled. Duration 125 ms by bot id=8119396922
+2025-04-30 23:53:57,929 - INFO - aiogram.event - Update id=958074805 is handled. Duration 120 ms by bot id=8119396922
+2025-04-30 23:53:58,831 - INFO - aiogram.event - Update id=958074806 is not handled. Duration 1 ms by bot id=8119396922
+2025-04-30 23:54:00,490 - INFO - aiogram.event - Update id=958074807 is handled. Duration 157 ms by bot id=8119396922
+2025-04-30 23:54:02,945 - INFO - aiogram.event - Update id=958074808 is handled. Duration 168 ms by bot id=8119396922
+2025-04-30 23:54:04,387 - INFO - aiogram.event - Update id=958074809 is handled. Duration 154 ms by bot id=8119396922
+2025-04-30 23:54:05,948 - INFO - aiogram.event - Update id=958074810 is handled. Duration 375 ms by bot id=8119396922
+2025-04-30 23:54:10,171 - INFO - aiogram.event - Update id=958074811 is handled. Duration 127 ms by bot id=8119396922
+2025-04-30 23:54:24,757 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2025-04-30 23:54:24,759 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:54:24,759 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-30 23:54:28,298 - INFO - aiogram.dispatcher - Start polling
+2025-04-30 23:54:28,622 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:54:29,079 - INFO - aiogram.event - Update id=958074812 is handled. Duration 344 ms by bot id=8119396922
+2025-04-30 23:54:29,551 - INFO - aiogram.event - Update id=958074813 is handled. Duration 124 ms by bot id=8119396922
+2025-04-30 23:54:34,675 - INFO - aiogram.event - Update id=958074814 is handled. Duration 158 ms by bot id=8119396922
+2025-04-30 23:54:37,181 - INFO - aiogram.event - Update id=958074815 is handled. Duration 229 ms by bot id=8119396922
+2025-04-30 23:54:42,232 - INFO - aiogram.event - Update id=958074816 is handled. Duration 120 ms by bot id=8119396922
+2025-04-30 23:54:43,978 - INFO - aiogram.event - Update id=958074817 is handled. Duration 119 ms by bot id=8119396922
+2025-04-30 23:54:45,811 - INFO - aiogram.event - Update id=958074818 is handled. Duration 435 ms by bot id=8119396922
+2025-04-30 23:54:49,054 - INFO - aiogram.event - Update id=958074819 is handled. Duration 130 ms by bot id=8119396922
+2025-04-30 23:57:14,340 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2025-04-30 23:57:14,341 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:57:14,342 - INFO - aiogram.dispatcher - Polling stopped
+2025-04-30 23:57:17,884 - INFO - aiogram.dispatcher - Start polling
+2025-04-30 23:57:18,285 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-04-30 23:57:20,010 - INFO - aiogram.event - Update id=958074820 is handled. Duration 368 ms by bot id=8119396922
+2025-04-30 23:57:22,730 - INFO - aiogram.event - Update id=958074821 is handled. Duration 291 ms by bot id=8119396922
+2025-04-30 23:57:24,258 - INFO - aiogram.event - Update id=958074822 is handled. Duration 117 ms by bot id=8119396922
+2025-04-30 23:57:25,447 - INFO - aiogram.event - Update id=958074823 is not handled. Duration 1 ms by bot id=8119396922
+2025-04-30 23:57:26,166 - INFO - aiogram.event - Update id=958074824 is handled. Duration 120 ms by bot id=8119396922
+2025-04-30 23:57:27,377 - INFO - aiogram.event - Update id=958074825 is handled. Duration 234 ms by bot id=8119396922
+2025-04-30 23:57:28,196 - INFO - aiogram.event - Update id=958074826 is handled. Duration 129 ms by bot id=8119396922
+2025-04-30 23:57:30,359 - INFO - aiogram.event - Update id=958074827 is handled. Duration 572 ms by bot id=8119396922
+2025-04-30 23:57:34,995 - INFO - aiogram.event - Update id=958074828 is handled. Duration 126 ms by bot id=8119396922
+2025-05-01 00:01:03,111 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2025-05-01 00:01:03,112 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-05-01 00:01:03,112 - INFO - aiogram.dispatcher - Polling stopped
+2025-05-01 00:01:06,704 - INFO - aiogram.dispatcher - Start polling
+2025-05-01 00:01:07,096 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-05-01 00:01:11,396 - INFO - aiogram.event - Update id=958074829 is handled. Duration 465 ms by bot id=8119396922
+2025-05-01 00:01:13,099 - INFO - aiogram.event - Update id=958074830 is handled. Duration 120 ms by bot id=8119396922
+2025-05-01 00:01:14,339 - INFO - aiogram.event - Update id=958074831 is handled. Duration 126 ms by bot id=8119396922
+2025-05-01 00:01:16,432 - INFO - aiogram.event - Update id=958074832 is handled. Duration 142 ms by bot id=8119396922
+2025-05-01 00:01:18,173 - INFO - aiogram.event - Update id=958074833 is handled. Duration 124 ms by bot id=8119396922
+2025-05-01 00:01:19,596 - INFO - aiogram.event - Update id=958074834 is handled. Duration 124 ms by bot id=8119396922
+2025-05-01 00:01:21,602 - INFO - aiogram.event - Update id=958074835 is handled. Duration 496 ms by bot id=8119396922
+2025-05-01 00:01:53,165 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2025-05-01 00:01:53,165 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-05-01 00:01:53,166 - INFO - aiogram.dispatcher - Polling stopped
+2025-05-01 00:01:56,130 - INFO - aiogram.dispatcher - Start polling
+2025-05-01 00:01:56,513 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-05-01 00:01:58,237 - INFO - aiogram.event - Update id=958074836 is handled. Duration 345 ms by bot id=8119396922
+2025-05-01 00:01:59,294 - INFO - aiogram.event - Update id=958074837 is handled. Duration 208 ms by bot id=8119396922
+2025-05-01 00:02:00,582 - INFO - aiogram.event - Update id=958074838 is handled. Duration 137 ms by bot id=8119396922
+2025-05-01 00:02:01,942 - INFO - aiogram.event - Update id=958074839 is handled. Duration 118 ms by bot id=8119396922
+2025-05-01 00:02:03,590 - INFO - aiogram.event - Update id=958074840 is handled. Duration 153 ms by bot id=8119396922
+2025-05-01 00:02:04,760 - INFO - aiogram.event - Update id=958074841 is handled. Duration 150 ms by bot id=8119396922
+2025-05-01 00:02:06,377 - INFO - aiogram.event - Update id=958074842 is handled. Duration 665 ms by bot id=8119396922
+2025-05-01 00:03:05,686 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2025-05-01 00:03:05,687 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-05-01 00:03:05,687 - INFO - aiogram.dispatcher - Polling stopped
+2025-05-01 00:07:24,541 - INFO - aiogram.dispatcher - Start polling
+2025-05-01 00:07:24,944 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-05-01 00:07:40,258 - INFO - aiogram.event - Update id=958074843 is handled. Duration 401 ms by bot id=8119396922
+2025-05-01 00:07:41,816 - INFO - aiogram.event - Update id=958074844 is handled. Duration 216 ms by bot id=8119396922
+2025-05-01 00:07:45,910 - INFO - aiogram.event - Update id=958074845 is handled. Duration 207 ms by bot id=8119396922
+2025-05-01 00:07:50,297 - INFO - aiogram.event - Update id=958074846 is handled. Duration 124 ms by bot id=8119396922
+2025-05-01 00:07:52,643 - INFO - aiogram.event - Update id=958074847 is handled. Duration 217 ms by bot id=8119396922
+2025-05-01 00:07:53,669 - INFO - aiogram.event - Update id=958074848 is handled. Duration 127 ms by bot id=8119396922
+2025-05-01 00:07:54,570 - INFO - aiogram.event - Update id=958074849 is handled. Duration 213 ms by bot id=8119396922
+2025-05-01 00:07:56,464 - INFO - aiogram.event - Update id=958074850 is handled. Duration 576 ms by bot id=8119396922
+2025-05-01 00:08:09,781 - INFO - aiogram.event - Update id=958074851 is not handled. Duration 1 ms by bot id=8119396922
+2025-05-01 00:08:13,250 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2025-05-01 00:08:13,252 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-05-01 00:08:13,252 - INFO - aiogram.dispatcher - Polling stopped
+2025-05-01 00:08:16,791 - INFO - aiogram.dispatcher - Start polling
+2025-05-01 00:08:17,187 - INFO - aiogram.dispatcher - Run polling for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-05-01 00:08:17,844 - INFO - aiogram.event - Update id=958074852 is handled. Duration 432 ms by bot id=8119396922
+2025-05-01 00:08:19,175 - INFO - aiogram.event - Update id=958074853 is handled. Duration 147 ms by bot id=8119396922
+2025-05-01 00:08:21,027 - INFO - aiogram.event - Update id=958074854 is handled. Duration 134 ms by bot id=8119396922
+2025-05-01 00:08:25,922 - INFO - aiogram.event - Update id=958074855 is handled. Duration 145 ms by bot id=8119396922
+2025-05-01 00:08:30,561 - INFO - aiogram.event - Update id=958074856 is handled. Duration 124 ms by bot id=8119396922
+2025-05-01 00:08:32,772 - INFO - aiogram.event - Update id=958074857 is handled. Duration 213 ms by bot id=8119396922
+2025-05-01 00:08:33,911 - INFO - aiogram.event - Update id=958074858 is handled. Duration 128 ms by bot id=8119396922
+2025-05-01 00:08:35,086 - INFO - aiogram.event - Update id=958074859 is handled. Duration 160 ms by bot id=8119396922
+2025-05-01 00:08:36,794 - INFO - aiogram.event - Update id=958074860 is handled. Duration 218 ms by bot id=8119396922
+2025-05-01 00:08:38,475 - INFO - aiogram.event - Update id=958074861 is handled. Duration 734 ms by bot id=8119396922
+2025-05-01 00:09:27,130 - WARNING - aiogram.dispatcher - Received SIGINT signal
+2025-05-01 00:09:27,131 - INFO - aiogram.dispatcher - Polling stopped for bot @IbratMasterclassBot id=8119396922 - 'Ibrat MasterClass'
+2025-05-01 00:09:27,131 - INFO - aiogram.dispatcher - Polling stopped
