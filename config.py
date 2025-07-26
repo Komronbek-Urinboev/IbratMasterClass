@@ -1,1 +1,1 @@
-TOKEN_bot = "8119396922:AAEZ-ULKQ7BeqduPi2qfrpEi3Q_dHLerkTU"
+TOKEN_bot = "TOKEN"
